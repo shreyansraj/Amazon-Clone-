@@ -1,2 +1,7 @@
 # Amazon-Clone-
-I have created clone of Amazon Using just HTML &amp; CSS.
+This is a clone of Amazon.
+# Skills used: 
+ HTML, CSS
+
+
+
